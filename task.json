@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "Task": "Test_1",
+        "Description": "Testing",
+        "Status": "Set",
+        "createdAt": "2025-01-04 21:42:51.296073"
+    },
+    {
+        "id": 2,
+        "Task": "Task_2",
+        "Description": "Testing for adding new task",
+        "Status": "Set",
+        "createdAt": "2025-01-05 17:30:27.703669"
+    },
+    {
+        "id": 3,
+        "Task": "Task_3",
+        "Description": "Testing 3",
+        "Status": "In-Progress",
+        "createdAt": "2025-01-04 21:52:30.060950"
+    },
+    {
+        "id": 4,
+        "Task": "Test_four",
+        "Description": "Testing 4",
+        "Status": "ReStart",
+        "createdAt": "2025-01-05 09:52:48.369355",
+        "updatedAt": "2025-01-05 17:31:17.543022"
+    },
+    {
+        "id": 5,
+        "Task": "& C:/Users/Nagaraj.S/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/Nagaraj.S/Documents/Projects/task_tracker/task_tracker.py",
+        "Description": "test",
+        "Status": "set",
+        "createdAt": "2025-01-05 11:45:42.129690"
+    },
+    {
+        "id": 6,
+        "Task": "Test_6",
+        "Description": "Testing 6",
+        "Status": "Summa",
+        "createdAt": "2025-01-05 11:47:41.438453"
+    },
+    {
+        "id": 7,
+        "Task": "Test_6",
+        "Description": "Testing",
+        "Status": "Check",
+        "createdAt": "2025-01-05 11:50:36.314309"
+    },
+    {
+        "id": 8,
+        "Task": "Task_8",
+        "Description": "Testing",
+        "Status": "Checking",
+        "createdAt": "2025-01-05 11:55:45.928550"
+    }
+]
